@@ -1,10 +1,18 @@
 [
   {
     "email": "user1@gremio.com",
-    "password": "password1"
+    "password": "1234",
+    "name": "User One",
+    "role": "Admin",
+    "jobTitle": "Gerente de Projeto",
+    "photo": "https://via.placeholder.com/150"
   },
   {
-    "email": "user2@diretoria.com",
-    "password": "password2"
+    "email": "user2@example.com",
+    "password": "password2",
+    "name": "User Two",
+    "role": "User",
+    "jobTitle": "Desenvolvedor",
+    "photo": "https://via.placeholder.com/150"
   }
 ]
